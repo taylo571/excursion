@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    display: block;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    color: white
+}
+header {
+    display: block;
+}
+header p {
+    font-size: 50px;
+    color: white;
+}
+a {
+    font-size: 16px;
+    color: aquamarine;
+    display: block;
+    margin-bottom: 15px;
+}
+main h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+main p {
+    font-size: 21px;
+    color: gray;
+}
+footer {
+    color: white;
+}
+footer h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+.copyright {
+    text-align: right;
+    color: gray;
+    display: flex;
+    justify-content: flex-end;
+}
+.copyright p {
+    margin-top: 0px;
+    margin-left: 5px;
+}
+i {
+    align-items: center;
+}
